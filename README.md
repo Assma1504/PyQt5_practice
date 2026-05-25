@@ -1,1 +1,1 @@
-# -Custom_tkinter_practice
+# PyQt5_practice
